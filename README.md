@@ -2,11 +2,6 @@
 
 **Enthusiast Developer from Uruguay🇺🇾**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/teagetoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teagetoh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thiagomena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiagomena" height="30" width="40" /></a>
-</p>
 
 ### 🪛 Tools
 <img align="left" alt="typescript" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
@@ -26,4 +21,8 @@
 - 🔭 I’m currently working on my own Mobile App.
 - 🌱 I’m currently learning Cybersecurity(Chronicle, Splunk, Suricata, WireShark).
 - 👯 I’m looking to collaborate on whatever you have in mind, contact me.
-- 📫 How to reach me: | Linkedin, Twitter |
+  
+<p align="left">
+<a href="https://twitter.com/teagetoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teagetoh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thiagomena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiagomena" height="30" width="40" /></a>
+</p>
