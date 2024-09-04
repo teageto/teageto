@@ -20,7 +20,7 @@ I'm a Junior Developer with a passion for building applications that enhance use
 
 ### 📊 Stats
 
-<img align="center" width="120" src="https://github-readme-stats.vercel.app/api?username=teageto&show_icons=true&theme=gruvbox&locale=en" alt="teageto" />
+<img align="center" width="250" src="https://github-readme-stats.vercel.app/api?username=teageto&show_icons=true&theme=gruvbox&locale=en" alt="teageto" />
 
 - 🔭 I’m currently working on my own Mobile App.
 - 🌱 I’m currently learning Cybersecurity(Chronicle, Splunk, Suricata, WireShark).
