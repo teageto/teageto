@@ -27,7 +27,8 @@ I'm a Junior Developer with a passion for building applications that enhance use
 - 🔭 I’m currently working on my own Mobile App.
 - 🌱 I’m currently learning Cybersecurity(Chronicle, Splunk, Suricata, WireShark).
 - 👯 I’m looking to collaborate on whatever you have in mind, contact me.
-  
+
+Feel free to reach out via social media or send me a message if you'd like to collaborate or just chat about tech.
 <p align="left">
 <a href="https://twitter.com/teagetoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teagetoh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thiagomena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiagomena" height="30" width="40" /></a>
