@@ -1,6 +1,8 @@
 # 🧿 teageto
 
-**Enthusiast Developer from Uruguay🇺🇾**
+**Junior Developer from Uruguay🇺🇾**
+
+I'm a Junior Developer with a passion for building applications that enhance user experience and streamline processes. I’m always open to collaboration and eager to contribute to innovative projects and contribute to the community. Let's connect and create something remarkable!
 
 
 ### 🪛 Tools
@@ -16,7 +18,7 @@
 
 #
 
-### Stats
+### 📊 Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=teageto&show_icons=true&theme=gruvbox&locale=en" alt="teageto" />
 
