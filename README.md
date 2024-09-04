@@ -25,7 +25,7 @@ I'm a Junior Developer with a passion for building applications that enhance use
 
 ### 📊 Stats
 
-<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=teageto&show_icons=true&theme=gruvbox&locale=en" alt="teageto" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=teageto&show_icons=true&theme=gruvbox&locale=en" alt="teageto" />
 
 #
 
