@@ -1,6 +1,6 @@
 # 🧿 teageto
 
-**Junior Developer from Uruguay🇺🇾**
+**Nerd from Uruguay🇺🇾**
 
 I'm a Junior Developer with a passion for building applications that enhance user experience and streamline processes. I’m always open to collaboration and eager to contribute to innovative projects that benefit the community. Let's connect and create something remarkable!
 
