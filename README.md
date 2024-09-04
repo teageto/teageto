@@ -17,7 +17,7 @@
 <img align="left" alt="postgresql" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teageto&show_icons=true&locale=en" alt="teageto" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=teageto&show_icons=true&locale=en" alt="teageto" />
 
 
 
