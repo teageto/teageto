@@ -11,8 +11,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teageto&show_icons=true&locale=en" alt="teageto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teageto&" alt="teageto" /></p>
-
 
 
 - 🔭 I’m currently working on my own Mobile App.
