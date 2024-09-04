@@ -14,7 +14,11 @@
 <img align="left" alt="postgresql" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=teageto&show_icons=true&locale=en" alt="teageto" />
+#
+
+### Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=teageto&show_icons=true&theme=gruvbox&locale=en" alt="teageto" />
 
 
 
