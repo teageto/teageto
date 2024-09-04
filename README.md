@@ -6,6 +6,7 @@ I'm a Junior Developer with a passion for building applications that enhance use
 
 
 ### 🪛 Tools
+
 <img align="left" alt="typescript" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="javascript" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="bash" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
@@ -18,13 +19,15 @@ I'm a Junior Developer with a passion for building applications that enhance use
 
 #
 
+- 🔭 I’m currently working on my own Mobile App.
+- 🌱 I’m currently learning Cybersecurity(Chronicle, Splunk, Suricata, WireShark).
+- 👯 I’m looking to collaborate on whatever you have in mind, contact me.
+
 ### 📊 Stats
 
 <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=teageto&show_icons=true&theme=gruvbox&locale=en" alt="teageto" />
 
-- 🔭 I’m currently working on my own Mobile App.
-- 🌱 I’m currently learning Cybersecurity(Chronicle, Splunk, Suricata, WireShark).
-- 👯 I’m looking to collaborate on whatever you have in mind, contact me.
+#
 
 Feel free to reach out via social media or send me a message if you'd like to collaborate or just chat about tech.
 <p align="left">
