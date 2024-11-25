@@ -19,7 +19,7 @@ I'm a Junior Developer with a passion for building applications that enhance use
 
 #
 
-- 🔭 I’m currently working on my own Mobile App.
+- 🔭 I’m currently working on my own Minesweeper.
 - 🌱 I’m currently learning Typescript.
 - 👯 I’m looking to collaborate on whatever you have in mind, contact me.
 
