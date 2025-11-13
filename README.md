@@ -23,10 +23,6 @@ I'm a Junior Developer with a passion for building software that enhance user ex
 - 🌱 I’m currently learning Typescript.
 - 👯 I’m looking to collaborate on whatever you have in mind, contact me.
 
-### 📊 Stats
-
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=teageto&show_icons=true&theme=gruvbox&locale=en" alt="teageto" />
-
 #
 
 Feel free to reach out via social media or send me a message if you'd like to collaborate or just chat about tech.
