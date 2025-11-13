@@ -18,8 +18,7 @@ I'm a Junior Developer with a passion for building software that enhance user ex
 
 #
 
-- 🔭 I’m currently working on my own Minesweeper.
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently learning Biology and Mathematics.
 - 👯 I’m looking to collaborate on whatever you have in mind, contact me.
 
 #
