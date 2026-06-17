@@ -2,7 +2,7 @@
 
 **Nerd from Uruguay🇺🇾**
 
-I'm a Junior Developer with a passion for building software that enhance user experience and streamline processes. I’m always open to collaboration and eager to contribute to innovative projects that benefit the community. Let's connect and create something remarkable!
+I'm a Student with a passion for building software. I’m always open to collaboration and eager to contribute to innovative projects that benefit the community. Let's connect and create something remarkable!
 
 
 ### 🪛 Tools
