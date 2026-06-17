@@ -1,4 +1,4 @@
-# 🧿 teageto
+# 🧿 Thiago Mena
 
 **Nerd from Uruguay🇺🇾**
 
